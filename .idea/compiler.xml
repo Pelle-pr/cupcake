@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="cupcake" options="-endorseddirs C:\Users\Tha-Y\Desktop\cupcake\target/endorsed" />
+      <module name="cupcake" options="-endorseddirs $PROJECT_DIR$/target/endorsed" />
     </option>
   </component>
 </project>
